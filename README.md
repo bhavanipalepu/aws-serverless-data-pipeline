@@ -34,7 +34,7 @@ aws-iris-athena-project/
 
 - Total number of rows
 - View top 5 records
-- Count of unique species
+- Unique species
 - Count of records per species
 - Average measurements (sepal/petal) by species
 - Records with long petal lengths (sorted descending)
